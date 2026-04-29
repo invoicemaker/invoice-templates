@@ -1,4 +1,4 @@
-# Invoice Maker Templates
+# Invoice Templates
 
 A collection of free, professional invoice templates available in PDF and Excel (.xlsx) format.
 Download any template instantly — no sign-up required.
