@@ -38,26 +38,26 @@ invoices in minutes.
 
 | Template | PDF | Excel |
 |---|---|---|
-| Blank Invoice Template | [Download PDF](#) | [Download XLSX](#) |
-| Freelance Invoice Template | [Download PDF](#) | [Download XLSX](#) |
-| Contractor Invoice Template | [Download PDF](#) | [Download XLSX](#) |
-| Simple Invoice Template | [Download PDF](#) | [Download XLSX](#) |
-| Commercial Invoice Template | [Download PDF](#) | [Download XLSX](#) |
-| Consulting Invoice Template | [Download PDF](#) | [Download XLSX](#) |
-| Service Invoice Template | [Download PDF](#) | [Download XLSX](#) |
-| Self-Employed Invoice Template | [Download PDF](#) | [Download XLSX](#) |
-| Hourly Invoice Template | [Download PDF](#) | [Download XLSX](#) |
-| Proforma Invoice Template | [Download PDF](#) | [Download XLSX](#) |
-| Photography Invoice Template | [Download PDF](#) | [Download XLSX](#) |
-| Construction Invoice Template | [Download PDF](#) | [Download XLSX](#) |
-| Cleaning Service Invoice Template | [Download PDF](#) | [Download XLSX](#) |
-| Graphic Design Invoice Template | [Download PDF](#) | [Download XLSX](#) |
-| Lawn Care Invoice Template | [Download PDF](#) | [Download XLSX](#) |
-| Medical Invoice Template | [Download PDF](#) | [Download XLSX](#) |
-| Real Estate Invoice Template | [Download PDF](#) | [Download XLSX](#) |
-| Trucking Invoice Template | [Download PDF](#) | [Download XLSX](#) |
-| Non-Profit Invoice Template | [Download PDF](#) | [Download XLSX](#) |
-| Music Invoice Template | [Download PDF](#) | [Download XLSX](#) |
+| Blank Invoice Template | [Download PDF](blank-invoice-template.pdf) | [Download XLSX](blank-invoice-template.xlsx) |
+| Freelance Invoice Template | [Download PDF](freelance-invoice-template.pdf) | [Download XLSX](freelance-invoice-template.xlsx) |
+| Contractor Invoice Template | [Download PDF](contractor-invoice-template.pdf) | [Download XLSX](contractor-invoice-template.xlsx) |
+| Simple Invoice Template | [Download PDF](simple-invoice-template.pdf) | [Download XLSX](simple-invoice-template.xlsx) |
+| Commercial Invoice Template | [Download PDF](commercial-invoice-template.pdf) | [Download XLSX](commercial-invoice-template.xlsx) |
+| Consulting Invoice Template | [Download PDF](consulting-invoice-template.pdf) | [Download XLSX](consulting-invoice-template.xlsx) |
+| Service Invoice Template | [Download PDF](service-invoice-template.pdf) | [Download XLSX](service-invoice-template.xlsx) |
+| Self-Employed Invoice Template | [Download PDF](self-employed-invoice-template.pdf) | [Download XLSX](self-employed-invoice-template.xlsx) |
+| Hourly Invoice Template | [Download PDF](hourly-invoice-template.pdf) | [Download XLSX](hourly-invoice-template.xlsx) |
+| Proforma Invoice Template | [Download PDF](proforma-invoice-template.pdf) | [Download XLSX](proforma-invoice-template.xlsx) |
+| Photography Invoice Template | [Download PDF](photography-invoice-template.pdf) | [Download XLSX](photography-invoice-template.xlsx) |
+| Construction Invoice Template | [Download PDF](construction-invoice-template.pdf) | [Download XLSX](construction-invoice-template.xlsx) |
+| Cleaning Service Invoice Template | [Download PDF](cleaning-service-invoice-template.pdf) | [Download XLSX](cleaning-service-invoice-template.xlsx) |
+| Graphic Design Invoice Template | [Download PDF](graphic-design-invoice-template.pdf) | [Download XLSX](graphic-design-invoice-template.xlsx) |
+| Lawn Care Invoice Template | [Download PDF](lawn-care-invoice-template.pdf) | [Download XLSX](lawn-care-invoice-template.xlsx) |
+| Medical Invoice Template | [Download PDF](medical-invoice-template.pdf) | [Download XLSX](medical-invoice-template.xlsx) |
+| Real Estate Invoice Template | [Download PDF](real-estate-invoice-template.pdf) | [Download XLSX](real-estate-invoice-template.xlsx) |
+| Trucking Invoice Template | [Download PDF](trucking-invoice-template.pdf) | [Download XLSX](trucking-invoice-template.xlsx) |
+| Non-Profit Invoice Template | [Download PDF](non-profit-invoice-template.pdf) | [Download XLSX](non-profit-invoice-template.xlsx) |
+| Music Invoice Template | [Download PDF](music-invoice-template.pdf) | [Download XLSX](music-invoice-template.xlsx) |
 
 ---
 
